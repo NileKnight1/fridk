@@ -1,1 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 
+body {
+    background-image: url('bomb.webp');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 15px;
+    text-align: center;
+}
+
+nav h1 {
+    margin: 0;
+    color: white;
+    font-size: 2em;
+
+}
